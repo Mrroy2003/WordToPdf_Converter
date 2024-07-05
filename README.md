@@ -1,5 +1,5 @@
 
-To run this project, run the following commands : 
+To run this project, run the following commands :- 
 
 
 npm i -- to install all dependencies
