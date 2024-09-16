@@ -1,6 +1,6 @@
 ## Project Demo Video
 
-You can watch the demo video of the project [here](https://drive.google.com/file/d/17Q6lYAli4D_femvOv9f8fhuIVuD82RFM/view?usp=drivesdk).
+You can watch the demo video of the project [here](https://drive.google.com/file/d/17Q6lYAli4D_femvOv9f8fhuIVuD82RFM/view?usp=drivesdk)
 
 ## Steps Followed in the Video
 
